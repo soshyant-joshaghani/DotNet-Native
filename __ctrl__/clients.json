@@ -1,0 +1,26 @@
+{
+  "web": {
+    "svelte": {
+      "name": "DotNet-Svelte",
+      "source": "../dotnet-svelte/frontend",
+      "repository": "https://github.com/soshyant-joshaghani/DotNet-Svelte",
+      "enabled": true
+    },
+    "next": {
+      "name": "DotNet-Next",
+      "repository": "",
+      "enabled": false
+    },
+    "nuxt": {
+      "name": "DotNet-Nuxt",
+      "repository": "",
+      "enabled": false
+    }
+  },
+  "android": {
+    "enabled": false
+  },
+  "windows": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "kits": [
+    {
+      "id": "svelte",
+      "label": "DotNet-Svelte",
+      "source": "../dotnet-svelte/frontend",
+      "repo": "https://github.com/soshyant-joshaghani/DotNet-Svelte.git",
+      "github": "soshyant-joshaghani/DotNet-Svelte",
+      "branch": "main",
+      "runtime": "node",
+      "dev": ["npm", "run", "dev"],
+      "cwd": "frontend/web",
+      "scaffold": "svelte"
+    }
+  ]
+}
